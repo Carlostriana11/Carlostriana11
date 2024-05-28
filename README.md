@@ -6,9 +6,6 @@ const Carlostriana11 = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Express, MongoDB],
 }
-You can contact me 🌐:
-- [linkedin](https://www.linkedin.com/in/carlostriana-desarrollador-web/)
-- [correo](carlosandrestriana8@gmail.com)
 
 <!--
 **Carlostriana11/Carlostriana11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
