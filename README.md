@@ -5,7 +5,8 @@ const Carlostriana11 = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   tools: ["Angular", "React", "Node", "Express", "MongoDB"],
-  hobbies: ["Coding", "Music", "Iron Man movies"],
+  hobbies: ["Coding", "Music"],
   goal: "Create innovative software solutions that make a positive impact",
 }
+
 
